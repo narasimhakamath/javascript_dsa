@@ -1,0 +1,19 @@
+{
+  "name": "javascript_dsa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narasimhakamath/javascript_dsa.git"
+  },
+  "author": "Narasimha Kamath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/narasimhakamath/javascript_dsa/issues"
+  },
+  "homepage": "https://github.com/narasimhakamath/javascript_dsa#readme"
+}
